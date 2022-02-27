@@ -1,0 +1,11 @@
+F:\CHRIST\ASSIGNMENTS\NET LAB\PROGRAM 9\Program 9\bin\Debug\Program 9.exe.config
+F:\CHRIST\ASSIGNMENTS\NET LAB\PROGRAM 9\Program 9\bin\Debug\Program 9.exe
+F:\CHRIST\ASSIGNMENTS\NET LAB\PROGRAM 9\Program 9\bin\Debug\Program 9.pdb
+F:\CHRIST\ASSIGNMENTS\NET LAB\PROGRAM 9\Program 9\obj\Debug\Program 9.csproj.AssemblyReference.cache
+F:\CHRIST\ASSIGNMENTS\NET LAB\PROGRAM 9\Program 9\obj\Debug\Program 9.csproj.SuggestedBindingRedirects.cache
+F:\CHRIST\ASSIGNMENTS\NET LAB\PROGRAM 9\Program 9\obj\Debug\Program_9.Properties.Resources.resources
+F:\CHRIST\ASSIGNMENTS\NET LAB\PROGRAM 9\Program 9\obj\Debug\Program 9.csproj.GenerateResource.cache
+F:\CHRIST\ASSIGNMENTS\NET LAB\PROGRAM 9\Program 9\obj\Debug\Program 9.csproj.CoreCompileInputs.cache
+F:\CHRIST\ASSIGNMENTS\NET LAB\PROGRAM 9\Program 9\obj\Debug\Program 9.exe
+F:\CHRIST\ASSIGNMENTS\NET LAB\PROGRAM 9\Program 9\obj\Debug\Program 9.pdb
+F:\CHRIST\ASSIGNMENTS\NET LAB\PROGRAM 9\Program 9\obj\Debug\Program_9.Form1.resources
